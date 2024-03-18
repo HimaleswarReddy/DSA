@@ -14,5 +14,6 @@ public class Inputs {
         int sum = num1 + num2;
         System.out.println("Sum = "+sum);
 
+
     }
 }
