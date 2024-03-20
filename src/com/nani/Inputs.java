@@ -8,11 +8,17 @@ public class Inputs {
         //    System.out.print("Enter your roll number:");
         //  int rollNo = input.nextInt();
         //System.out.println("Your roll number is "+rollNo);
-        int num1 = input.nextInt();
-        int num2 = input.nextInt();
 
-        int sum = num1 + num2;
-        System.out.println("Sum = "+sum);
+        //Type Casting
+
+        int num = (int)(67.56f);
+        System.out.println(num);
+
+        //automatic type promotion in expressions
+
+        int a = 257;
+        byte b= (byte)(a); //257%256=1
+
 
 
     }
