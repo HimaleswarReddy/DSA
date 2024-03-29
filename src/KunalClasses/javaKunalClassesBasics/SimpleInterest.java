@@ -1,4 +1,4 @@
-package com.javaKunalClassesBasics;
+package KunalClasses.javaKunalClassesBasics;
 
 import java.util.Scanner;
 

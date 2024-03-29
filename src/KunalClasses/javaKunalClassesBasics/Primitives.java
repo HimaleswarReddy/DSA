@@ -1,4 +1,4 @@
-package com.javaKunalClassesBasics;
+package KunalClasses.javaKunalClassesBasics;
 
 public class Primitives {
     public static void main(String[] args) {

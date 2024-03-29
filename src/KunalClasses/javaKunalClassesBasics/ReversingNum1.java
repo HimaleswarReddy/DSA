@@ -1,4 +1,4 @@
-package com.javaKunalClassesBasics;
+package KunalClasses.javaKunalClassesBasics;
 
 public class ReversingNum1 {
     public static void main(String[] args) {
