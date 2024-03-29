@@ -1,4 +1,4 @@
-package com.nani;
+package com.javaKunalClassesBasics;
 
 import java.util.Scanner;
 

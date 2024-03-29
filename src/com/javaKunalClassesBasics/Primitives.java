@@ -1,4 +1,4 @@
-package com.nani;
+package com.javaKunalClassesBasics;
 
 public class Primitives {
     public static void main(String[] args) {
