@@ -6,7 +6,11 @@ public class Sum {
     public static void main(String[] args) {
         int ans = sum2();
         System.out.println(ans);
-        sum();
+        System.out.println(sum3(20,30));
+    }
+    static int sum3(int a,int b){
+        int sum=a+b;
+        return sum;
     }
     static int sum2(){
         Scanner sc = new Scanner(System.in);
