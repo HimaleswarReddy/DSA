@@ -1,4 +1,4 @@
-package methods;
+package KunalClasses.methods;
 
 import java.util.Scanner;
 

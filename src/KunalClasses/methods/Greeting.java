@@ -1,4 +1,4 @@
-package methods;
+package KunalClasses.methods;
 
 public class Greeting {
     public static void main(String[] args) {
