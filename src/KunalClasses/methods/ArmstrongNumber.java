@@ -9,6 +9,11 @@ public class ArmstrongNumber {
         int m = sc.nextInt();
 
         System.out.println(isArmstrong(m));
+        for(int i =100;i<1000;i++){
+            if(isArmstrong(i)){
+                System.out.println(i);
+            }
+        }
     }
     static boolean isArmstrong(int n ){
         int sum = 0;
