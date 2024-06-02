@@ -1,7 +1,12 @@
 package KunalClasses.arrays.binarySearch;
 
 public class Ceiling {
-    int ceiling(int[]arr,int target){
+    public static void main(String[] args) {
+        int [] arr={22,20,18,17,16,14,12,8,5,1};
+        int ans=ceiling(arr,15);
+        System.out.println(arr[ans]);
+    }
+    static  int ceiling(int[]arr,int target){
         int start=0;
         int end= arr.length-1;
 
@@ -26,6 +31,7 @@ public class Ceiling {
                 }
             }
         }
-        return -1;
+        int returnIndex=isAsc?start:end;
+        return returnIndex;
     }
 }

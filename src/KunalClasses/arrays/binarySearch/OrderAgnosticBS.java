@@ -28,9 +28,9 @@ public class OrderAgnosticBS {
                 }
             }else{
                 if(target>mid){
-                    end=mid+1;
+                    end=mid-1;
                 }else {
-                    start=mid-1;
+                    start=mid+1;
                 }
             }
         }
