@@ -1,6 +1,4 @@
-package apna.Strings;
-
-import java.util.Locale;
+package apna.strings;
 
 public class ToUpperCase {
     public static void main(String[] args) {

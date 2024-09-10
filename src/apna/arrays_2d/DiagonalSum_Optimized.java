@@ -1,4 +1,4 @@
-package apna.arrays2D;
+package apna.arrays_2d;
 
 public class DiagonalSum_Optimized {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package apna.Strings;
+package apna.strings;
 
 public class ShortestPath {
     public static void main(String[] args) {

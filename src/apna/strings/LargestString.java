@@ -1,4 +1,4 @@
-package apna.Strings;
+package apna.strings;
 
 public class LargestString {
     public static void main(String[] args) {

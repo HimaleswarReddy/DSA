@@ -1,4 +1,4 @@
-package apna.arrays2D;
+package apna.arrays_2d;
 
 public class SpiralMatrix {
     public static void main(String[] args) {

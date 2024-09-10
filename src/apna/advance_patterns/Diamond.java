@@ -1,4 +1,4 @@
-package apna.advancePatterns;
+package apna.advance_patterns;
 
 import java.util.Scanner;
 

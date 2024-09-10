@@ -1,4 +1,4 @@
-package apna.BasicSorting;
+package apna.basic_sorting;
 import java.util.Arrays;
 
 public class InsertionSort {
