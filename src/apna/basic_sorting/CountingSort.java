@@ -1,6 +1,7 @@
 package apna.basic_sorting;
 import java.util.Arrays;
 
+// counting sort is used when the range of the data is small and know
 public class CountingSort {
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3,4,5};
