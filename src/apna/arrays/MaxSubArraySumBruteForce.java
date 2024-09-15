@@ -2,6 +2,8 @@ package apna.arrays;
 
 import java.util.Scanner;
 
+//max subarray sum problem.
+
 public class MaxSubArraySumBruteForce {
     public static void main(String[] args) {
         int arr[] = {1, -2, 6, -1, 3};
