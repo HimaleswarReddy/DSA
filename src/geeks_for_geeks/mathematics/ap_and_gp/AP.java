@@ -1,5 +1,7 @@
 package geeks_for_geeks.mathematics.ap_and_gp;
 
+//AP
+
 public class AP {
     public static void main(String[] args) {
         ap(2,2,10);
