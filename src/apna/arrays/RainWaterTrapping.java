@@ -1,5 +1,8 @@
 package apna.arrays;
 
+//rainwater trapping
+
+
 public class RainWaterTrapping {
     public static void main(String[] args) {
         int bars[] = {4, 2, 0, 6, 3, 2, 5};
