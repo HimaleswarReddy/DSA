@@ -1,5 +1,7 @@
 package apna.arrays;
 
+//Max subarray sum
+
 public class MaxSubArraySumPrefixArr {
     public static void main(String[] args) {
         int arr[] = {1, -2, 6, -1, 3};
