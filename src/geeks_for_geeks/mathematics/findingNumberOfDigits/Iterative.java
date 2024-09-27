@@ -1,5 +1,6 @@
 package geeks_for_geeks.mathematics.findingNumberOfDigits;
 
+// finding number of digits using iterative method;
 public class Iterative {
     public static void main(String[] args) {
         System.out.println(countDigit(-200));
