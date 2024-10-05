@@ -1,7 +1,7 @@
 package apna.strings;
 
 
-// BruteForce approach
+// BruteForce approach in leetcode
 public class LeetCode1392 {
     public static void main(String[] args) {
         System.out.println(longestPrefix("level"));
